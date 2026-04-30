@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Student Theme Colors -->
+    <color name="student_primary">#4CAF50</color>
+    <color name="student_secondary">#FFC107</color>
+    <color name="student_background">#F5F5DC</color>
+    <color name="student_surface">#FFFFFF</color>
+
+    <!-- Teacher Theme Colors -->
+    <color name="teacher_primary">#FF9800</color>
+    <color name="teacher_secondary">#FFC107</color>
+    <color name="teacher_background">#F5F5DC</color>
+    <color name="teacher_surface">#FFFFFF</color>
+</resources>
